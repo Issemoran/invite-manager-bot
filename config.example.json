@@ -1,5 +1,5 @@
 {
-	"devToken": "",
+	"devToken": "NzQ0NDk2Nzc5NzEzODM5MTY1.XzkEqA.pmTU7xJfjIP-Ty8cW6e7RYqsswU",
 	"sentryDsn": "",
 	"bot": {
 		"type": "regular",
@@ -8,10 +8,7 @@
 			"pro": ""
 		},
 		"links": {
-			"add": "https://invitemanager.co/add-bot/",
-			"support": "https://discord.gg/Am6p2Hs",
-			"website": "https://andreasgassmann.github.io/discord-invite-manager/",
-			"patreon": "https://www.patreon.com/invitemanager"
+			"Discord": "Soon",
 		},
 		"dm": {
 			"guild": "",
